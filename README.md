@@ -73,10 +73,10 @@ This survey presents the first detailed survey on remote sensing vision language
 - [Introduction](#introduction)
 - [Summary of Contents](#summary-of-contents)
 - [Methods: A Survey](#methods-a-survey)
-  - [Contrastive GFMs](#contrastive-gfms)
-  - [Conversational GFMs](#conversational-gfms)
-  - [Generative GFMs](#generative-gfms)
-  - [Agent GFMs](#agent-gfms)
+  - [Contrastive VLGFMs](#contrastive-vlgfms)
+  - [Conversational VLGFMs](#conversational-vlgfms)
+  - [Generative VLGFMs](#generative-vlgfms)
+  - [Agent VLGFMs](#agent-vlgfms)
   - [Datasets](#datsets)
   - [Benchmarks](#benchmarks)
 - [Application](#application)
@@ -102,42 +102,41 @@ This survey presents the first detailed survey on remote sensing vision language
 - `sam`: Use SAM (Segment Anything Model)
 
 
-### Contrastive GFMs
+### Contrastive VLGFMs
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
-|2023|arXiv||[RemoteCLIP: A Vision Language Foundation Model for Remote Sensing](https://arxiv.org/abs/2306.11029)|[Code](https://github.com/ChenDelong1999/RemoteCLIP)|
-|2023|arXiv||[RS5M and GeoRSCLIP: A Large Scale Vision-Language Dataset and A Large Vision-Language Model for Remote Sensing](https://arxiv.org/abs/2306.11300)|[Code](https://github.com/om-ai-lab/RS5M)|
-|2024|ICLR ||[GRAFT: Remote Sensing Vision-Language Foundation Models without Annotations via Ground Remote Alignment](https://arxiv.org/abs/2312.06960)|[Project](https://graft.cs.cornell.edu)|
-|2024|AAAI||[SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing](https://arxiv.org/abs/2312.12856)|[Code](https://github.com/wangzhecheng/SkyScript)|
-|2024|arXiv||[Mind the Modality Gap: Towards a Remote Sensing Vision-Language Model via Cross-modal Alignment](https://arxiv.org/abs/2402.09816)|N/A|
+|2023|arXiv|`clip`|[RemoteCLIP: A Vision Language Foundation Model for Remote Sensing](https://arxiv.org/abs/2306.11029)|[Code](https://github.com/ChenDelong1999/RemoteCLIP)|
+|2023|arXiv|`clip`|[RS5M and GeoRSCLIP: A Large Scale Vision-Language Dataset and A Large Vision-Language Model for Remote Sensing](https://arxiv.org/abs/2306.11300)|[Code](https://github.com/om-ai-lab/RS5M)|
+|2024|ICLR |`clip`|[GRAFT: Remote Sensing Vision-Language Foundation Models without Annotations via Ground Remote Alignment](https://arxiv.org/abs/2312.06960)|[Project](https://graft.cs.cornell.edu)|
+|2024|AAAI|`clip`|[SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing](https://arxiv.org/abs/2312.12856)|[Code](https://github.com/wangzhecheng/SkyScript)|
+|2024|arXiv|`clip`|[Mind the Modality Gap: Towards a Remote Sensing Vision-Language Model via Cross-modal Alignment](https://arxiv.org/abs/2402.09816)|N/A|
 
 
-### Conversational GFMs
-
-|Year|Venue|Keywords|Paper Title|Code/Project|
-|:-:|:-:|:-:|-|-|
-|2023|arXiv||[Rsgpt: A remote sensing vision language model and benchmark](https://arxiv.org/abs/2307.15266)|[Code](https://github.com/Lavender105/RSGPT)|
-|2024|CVPR||[GeoChat: Grounded Large Vision-Language Model for Remote Sensing](https://arxiv.org/abs/2311.15826)|[Code](https://github.com/mbzuai-oryx/geochat)|
-|2024|arXiv||[SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model](https://arxiv.org/abs/2401.09712)|[Code](https://github.com/ZhanYang-nwpu/SkyEyeGPT)|
-|2024|arXiv||[Earthgpt: A universal multi-modal large language model for multi-sensor image comprehension in remote sensing domain](https://arxiv.org/pdf/2401.16822.pdf)|N/A|
-|2024|arXiv||[LHRS-Bot: Empowering Remote Sensing with VGI-Enhanced Large Multimodal Language Model](https://arxiv.org/abs/2402.02544)|[Code](https://github.com/NJU-LHRS/LHRS-Bot)|
-|2024|arXiv||[Large Language Models for Captioning and Retrieving Remote Sensing Images](https://arxiv.org/pdf/2402.06475.pdf)|N/A|
-
-
-### Generative GFMs
+### Conversational VLGFMs
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
-|2023|arXiv||[DiffusionSat: A Generative Foundation Model for Satellite Imagery](https://arxiv.org/abs/2312.03606)|N/A|
-|2023|arXiv||[Stable Diffusion For Aerial Object Detection](https://arxiv.org/abs/2311.12345)|N/A|
-|2023|NeurIPSW||[Generate Your Own Scotland: Satellite Image Generation Conditioned on Maps](https://arxiv.org/abs/2308.16648)|[Code](https://github.com/toastyfrosty/map-sat)|
+|2023|arXiv|`llm`|[Rsgpt: A remote sensing vision language model and benchmark](https://arxiv.org/abs/2307.15266)|[Code](https://github.com/Lavender105/RSGPT)|
+|2024|CVPR|`llm`|[GeoChat: Grounded Large Vision-Language Model for Remote Sensing](https://arxiv.org/abs/2311.15826)|[Code](https://github.com/mbzuai-oryx/geochat)|
+|2024|arXiv|`llm`|[SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model](https://arxiv.org/abs/2401.09712)|[Code](https://github.com/ZhanYang-nwpu/SkyEyeGPT)|
+|2024|arXiv|`llm`|[Earthgpt: A universal multi-modal large language model for multi-sensor image comprehension in remote sensing domain](https://arxiv.org/pdf/2401.16822.pdf)|N/A|
+|2024|arXiv|`llm`|[LHRS-Bot: Empowering Remote Sensing with VGI-Enhanced Large Multimodal Language Model](https://arxiv.org/abs/2402.02544)|[Code](https://github.com/NJU-LHRS/LHRS-Bot)|
+|2024|arXiv|`llm`|[Large Language Models for Captioning and Retrieving Remote Sensing Images](https://arxiv.org/pdf/2402.06475.pdf)|N/A|
 
 
-### Agent GFMs
+### Generative VLGFMs
+
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
-|2024|arXiv||[Remote Sensing ChatGPT: Solving Remote Sensing Tasks with ChatGPT and Visual Model](https://arxiv.org/abs/2401.09083)|[Code](https://github.com/HaonanGuo/Remote-Sensing-ChatGPT)|
+|2023|arXiv|`clip`|[DiffusionSat: A Generative Foundation Model for Satellite Imagery](https://arxiv.org/abs/2312.03606)|N/A|
+|2023|arXiv|`clip`|[Stable Diffusion For Aerial Object Detection](https://arxiv.org/abs/2311.12345)|N/A|
+
+
+### Agent VLGFMs
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+|2024|arXiv|`llm`|[Remote Sensing ChatGPT: Solving Remote Sensing Tasks with ChatGPT and Visual Model](https://arxiv.org/abs/2401.09083)|[Code](https://github.com/HaonanGuo/Remote-Sensing-ChatGPT)|
 
 
 
@@ -145,7 +144,7 @@ This survey presents the first detailed survey on remote sensing vision language
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
 |2023|TGRS||[RSVG: Exploring Data and Models for Visual Grounding on Remote Sensing Data](https://ieeexplore.ieee.org/abstract/document/10056343)|N/A|
-|2024|arXiv||[ChatEarthNet: A Global-Scale, High-Quality Image-Text Dataset for Remote Sensing](https://arxiv.org/abs/2402.11325)|N/A|
+|2024|arXiv|`llm`|[ChatEarthNet: A Global-Scale, High-Quality Image-Text Dataset for Remote Sensing](https://arxiv.org/abs/2402.11325)|N/A|
 
 
 ### Benchmark
@@ -212,16 +211,16 @@ This survey presents the first detailed survey on remote sensing vision language
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
-|2023|ICML||[CSP: Self-Supervised Contrastive Spatial Pre-Training for Geospatial-Visual Representations](https://arxiv.org/abs/2305.01118)|[Code](https://gengchenmai.github.io/csp-website/)|
-|2023|NeurIPS||[GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization](https://arxiv.org/abs/2309.16020)|[Code](https://github.com/VicenteVivan/geo-clip)|
-|2023|arXiv||[SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery](https://arxiv.org/abs/2311.17179)|[Code](https://github.com/microsoft/satclip)|
+|2023|ICML|`clip`|[CSP: Self-Supervised Contrastive Spatial Pre-Training for Geospatial-Visual Representations](https://arxiv.org/abs/2305.01118)|[Code](https://gengchenmai.github.io/csp-website/)|
+|2023|NeurIPS|`clip`|[GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization](https://arxiv.org/abs/2309.16020)|[Code](https://github.com/VicenteVivan/geo-clip)|
+|2023|arXiv|`clip`|[SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery](https://arxiv.org/abs/2311.17179)|[Code](https://github.com/microsoft/satclip)|
 
 
 ### Super-Resolution
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
-|2023|arXiv||[Zooming Out on Zooming In: Advancing Super-Resolution for Remote Sensing](https://arxiv.org/abs/2311.18082)|[Code](https://github.com/allenai/satlas-super-resolution)|
+|2023|arXiv|`clip`|[Zooming Out on Zooming In: Advancing Super-Resolution for Remote Sensing](https://arxiv.org/abs/2311.18082)|[Code](https://github.com/allenai/satlas-super-resolution)|
 
 
 ### Exploration
