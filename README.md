@@ -218,7 +218,7 @@ This survey presents the first detailed survey on remote sensing vision language
 |2023|arXiv|`clip`|[SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery](https://arxiv.org/abs/2311.17179)|[Code](https://github.com/microsoft/satclip)|
 
 
-### Super-Resolution
+#### Super-Resolution
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
