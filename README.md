@@ -151,7 +151,7 @@ This survey presents the first detailed survey on remote sensing vision language
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
 |2023|arXiv||[Satin: A multi-task metadataset for classifying satellite imagery using vision-language models](https://arxiv.org/abs/2304.11619)|[Project](https://satinbenchmark.github.io/)|
-
+|2024|arXiv||[Good at captioning, bad at counting: Benchmarking GPT-4V on Earth observation data](https://arxiv.org/abs/2401.17600)|[Code](https://vleo.danielz.ch/)|
 
 
 ### Application
@@ -232,7 +232,7 @@ This survey presents the first detailed survey on remote sensing vision language
 |2023|arXiv||[GPT4GEO: How a Language Model Sees the World's Geography](https://arxiv.org/abs/2306.00020)|[Code](https://github.com/jonathan-roberts1/GPT4GEO)|
 |2023|arXiv||[Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs](https://arxiv.org/abs/2311.14656)|[Code](https://github.com/jonathan-roberts1/charting-new-territories)|
 |2023|arXiv||[The Potential of Visual ChatGPT For Remote Sensing](https://arxiv.org/abs/2304.13009)|N/A|
-|2024|arXiv||[Good at captioning, bad at counting: Benchmarking GPT-4V on Earth observation data](https://arxiv.org/abs/2401.17600)|[Code](https://vleo.danielz.ch/)|
+
 
 
 
