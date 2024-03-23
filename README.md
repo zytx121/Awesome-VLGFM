@@ -129,8 +129,9 @@ This survey presents the first detailed survey on remote sensing vision language
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
-|2023|arXiv|`clip`|[DiffusionSat: A Generative Foundation Model for Satellite Imagery](https://arxiv.org/abs/2312.03606)|N/A|
 |2023|arXiv|`clip`|[Stable Diffusion For Aerial Object Detection](https://arxiv.org/abs/2311.12345)|N/A|
+|2024|ICLR|`clip`|[DiffusionSat: A Generative Foundation Model for Satellite Imagery](https://arxiv.org/abs/2312.03606)|[Code](https://github.com/samar-khanna/DiffusionSat)|
+|2024|arXiv|`clip`|[CRS-Diff: Controllable Generative Remote Sensing Foundation Model](https://arxiv.org/abs/2403.11614)|N/A|
 
 
 ### Agent VLGFMs
