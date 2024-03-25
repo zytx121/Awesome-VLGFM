@@ -38,9 +38,9 @@ We will add the missing papers to this repo as soon as possible.
 
 ### 🔥Add Your Paper in our Repo and Survey!!!!!
 
-[-] You are welcome to give us an issue or PR for your VLGFM work !!!!!
+- You are welcome to give us an issue or PR for your VLGFM work !!!!!
 
-[-] Note that: Due to the huge paper in Arxiv, we are sorry to cover all in our survey. You can directly present a PR into this repo and we will record it for next version update of our survey.
+- Note that: Due to the huge paper in Arxiv, we are sorry to cover all in our survey. You can directly present a PR into this repo and we will record it for next version update of our survey.
 
 <!-- [-] **Our survey will be updated in 2024.3.** -->
 
@@ -49,16 +49,16 @@ We will add the missing papers to this repo as soon as possible.
 
 <!-- [-] Our work is accepted by T-PAMI !!! 🔥🔥🔥 -->
 
-[-] We update GitHub to record the available paper by the end of **2024/4/1**.
+- We update GitHub to record the available paper by the end of **2024/4/1**.
 
 
 ### 🔥Highlight!!
 
-[1]  The first survey for vision-language geo-foundation models, including contrastive/conversational/generative/agent geo-foundation models.
+-  The first survey for vision-language geo-foundation models, including contrastive/conversational/generative/agent geo-foundation models.
 
-[2]  It also contains several related works, including exploration and application of some downstream tasks. 
+-  It also contains several related works, including exploration and application of some downstream tasks. 
 
-[3]  We list detailed results for the most representative works and give a fairer and clearer comparison of different approaches.
+-  We list detailed results for the most representative works and give a fairer and clearer comparison of different approaches.
 
 
 
