@@ -36,7 +36,7 @@ This repo is used for recording, tracking, and benchmarking several recent visio
 If you find any work missing or have any suggestions (papers, implementations, and other resources), feel free to [pull requests](https://github.com/zytx121/Awesome-VLGFM/pulls).
 We will add the missing papers to this repo as soon as possible.
 
-### 🔥Add Your Paper in our Repo and Survey!!!!!
+### 🙌Add Your Paper in our Repo and Survey!!!!!
 
 - You are welcome to give us an issue or PR for your VLGFM work !!!!!
 
@@ -45,14 +45,14 @@ We will add the missing papers to this repo as soon as possible.
 <!-- [-] **Our survey will be updated in 2024.3.** -->
 
 
-### 🔥New
+### 🥳New
 
 <!-- [-] Our work is accepted by T-PAMI !!! 🔥🔥🔥 -->
 
 - We update GitHub to record the available paper by the end of **2024/4/1**.
 
 
-### 🔥Highlight!!
+### ✨Highlight!!
 
 -  The first survey for vision-language geo-foundation models, including contrastive/conversational/generative/agent geo-foundation models.
 
@@ -62,24 +62,24 @@ We will add the missing papers to this repo as soon as possible.
 
 
 
-## Introduction
+## 📖Introduction
 
 This survey presents the first detailed survey on remote sensing vision language foundation models, including CLIP-based foundation models, LLM-based foundation models, and generative foundation models.
 
 ![Alt Text](figs/vlgfm.png)
 
-## Summary of Contents
+## 📗Summary of Contents
 
-- [Introduction](#introduction)
-- [Summary of Contents](#summary-of-contents)
-- [Methods: A Survey](#methods-a-survey)
+- [📖Introduction](#introduction)
+- [📗Summary of Contents](#summary-of-contents)
+- [📚Methods: A Survey](#methods-a-survey)
   - [Contrastive VLGFMs](#contrastive-vlgfms)
   - [Conversational VLGFMs](#conversational-vlgfms)
   - [Generative VLGFMs](#generative-vlgfms)
   - [Agent VLGFMs](#agent-vlgfms)
   - [Datasets](#datsets)
   - [Benchmarks](#benchmarks)
-- [Application](#application)
+- [🕹️Application](#application)
   - [Captioning](#captioning)
   - [Retrieval](#retrieval)
   - [Change Detection](#change-detection)
@@ -88,12 +88,12 @@ This survey presents the first detailed survey on remote sensing vision language
   - [Visual Question Answering](#visual-question-answering)
   - [Geospatial Localization](#geospatial-localization)
   - [Super-Resolution](#super-resolution)
-- [Exploration](#exploration)
-- [Survey](#survey)
-- [Acknowledgement](#acknowledgement)
+- [📊Exploration](#exploration)
+- [👨‍🏫Survey](#survey)
+- [🖊️Citation](#citation)
 - [Contact](#contact)
 
-## Methods: A Survey
+## 📚Methods: A Survey
 
 **Keywords**
 
@@ -155,7 +155,7 @@ This survey presents the first detailed survey on remote sensing vision language
 |2024|arXiv||[Good at captioning, bad at counting: Benchmarking GPT-4V on Earth observation data](https://arxiv.org/abs/2401.17600)|[Code](https://vleo.danielz.ch/)|
 
 
-### Application
+### 🕹️Application
 
 #### Captioning
 
@@ -225,7 +225,7 @@ This survey presents the first detailed survey on remote sensing vision language
 |2023|arXiv|`clip`|[Zooming Out on Zooming In: Advancing Super-Resolution for Remote Sensing](https://arxiv.org/abs/2311.18082)|[Code](https://github.com/allenai/satlas-super-resolution)|
 
 
-### Exploration
+### 📊Exploration
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
@@ -238,7 +238,7 @@ This survey presents the first detailed survey on remote sensing vision language
 
 
 
-### Survey
+### 👨‍🏫Survey
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
@@ -251,7 +251,7 @@ This survey presents the first detailed survey on remote sensing vision language
 
 
 
-## Acknowledgement
+## 🖊️Citation
 
 If you find our survey and repository useful for your research project, please consider citing our paper:
 
