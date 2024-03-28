@@ -77,8 +77,8 @@ This survey presents the first detailed survey on remote sensing vision language
   - [Conversational VLGFMs](#conversational-vlgfms)
   - [Generative VLGFMs](#generative-vlgfms)
   - [Agent VLGFMs](#agent-vlgfms)
-  - [Datasets](#datsets)
-  - [Benchmarks](#benchmarks)
+  - [Datasets & Benchmarks](#datsets_&_benchmarks)
+  - [](#benchmarks)
 - [🕹️ Application](#application)
   - [Captioning](#captioning)
   - [Retrieval](#retrieval)
@@ -100,6 +100,13 @@ This survey presents the first detailed survey on remote sensing vision language
 - `clip`: Use CLIP
 - `llm`: Use LLM (Large Language Model)
 - `sam`: Use SAM (Segment Anything Model)
+- `i-t`: Annotate using image-text tuples
+- `v-t`: Annotate using video-text tuples
+- `i-t-b`: Annotate using image-text-box triplets
+- `i-t-m`: Annotate using image-text-mask triplets
+
+
+image-caption-mask triplets
 
 
 ### Contrastive VLGFMs
@@ -141,18 +148,41 @@ This survey presents the first detailed survey on remote sensing vision language
 
 
 
-### Datasets
-|Year|Venue|Keywords|Paper Title|Code/Project|
-|:-:|:-:|:-:|-|-|
-|2023|TGRS||[RSVG: Exploring Data and Models for Visual Grounding on Remote Sensing Data](https://ieeexplore.ieee.org/abstract/document/10056343)|N/A|
-|2024|arXiv|`llm`|[ChatEarthNet: A Global-Scale, High-Quality Image-Text Dataset for Remote Sensing](https://arxiv.org/abs/2402.11325)|N/A|
+### Datasets & Benchmark
+|Year|Venue|Keywords|Name|Code/Project|Download|
+|:-:|:-:|:-:|-|-|-|
+|2016|CITS|`i-t`|[Sydney-Captions & UCM-Captions](https://ieeexplore.ieee.org/abstract/document/7546397)|[N/A]|[link](https://pan.baidu.com/s/1mjPToHq#list/path=%2F)[link2](https://pan.baidu.com/s/1hujEmcG#list/path=%2F)|
+|2017|TGRS|`i-t`|[RSICD](https://ieeexplore.ieee.org/document/8240966)|[Project](https://github.com/201528014227051/RSICD_optimal)|[Link](https://drive.google.com/open?id=0B1jt7lJDEXy3aE90cG9YSl9ScUk)|
+|2020|TGRS|`i-t`|[RSVQA-LR & RSVQA-HR](https://arxiv.org/abs/2003.07333)|[Project](https://rsvqa.sylvainlobry.com)|[link1](https://zenodo.org/records/6344334)[link2](https://zenodo.org/records/6344367)|
+|2021|IGARSS|`i-t`|[RSVQAxBEN](https://rsvqa.sylvainlobry.com/IGARSS21.pdf)|[Project](https://rsvqa.sylvainlobry.com)|[link](https://zenodo.org/records/5084904)|
+|2021|Access|`i-t`|[FloodNet](https://ieeexplore.ieee.org/abstract/document/9460988)|[Project](https://github.com/BinaLab/FloodNet-Supervised_v1.0)|[link](https://drive.google.com/drive/folders/1leN9eWVQcvWDVYwNb2GCo5ML_wBEycWD)|
+|2021|TGRS|`i-t`|[RSITMD](https://ieeexplore.ieee.org/document/9437331)|[Code](https://github.com/xiaoyuan1996/AMFMN)|[link](https://drive.google.com/file/d/1NJY86TAAUd8BVs7hyteImv8I2_Lh95W6/view)|
+|2021|TGRS|`i-t`|[RSIVQA](https://ieeexplore.ieee.org/document/9444570)|[Code](https://github.com/spectralpublic/RSIVQA)|[link](https://github.com/spectralpublic/RSIVQA/tree/main/RSIVQA)|
+|2022|TGRS|`i-t`|[NWPU-Captions](https://ieeexplore.ieee.org/document/9866055)|[Project](https://github.com/HaiyanHuang98/NWPU-Captions)|[link](https://github.com/HaiyanHuang98/NWPU-Captions)|
+|2022|TGRS|`i-t`|[CRSVQA](https://ieeexplore.ieee.org/abstract/document/10242124)|[Project](https://github.com/MeimeiZhang-data/MQVQA)|[link](https://drive.google.com/file/d/12DQwGzJ5OQK1rU0T5CmpNN9bEs38x_mQ/view)|
+|2022|TGRS|`i-t`|[LEVIR-CC](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9934924)|[Project](https://github.com/Chen-Yang-Liu/RSICC)|[link](https://github.com/Chen-Yang-Liu/LEVIR-CC-Dataset)|
+|2022|TGRS|`i-t`|[CDVQA](https://ieeexplore.ieee.org/abstract/document/9901476)|[Project](https://github.com/YZHJessica/CDVQA)|[link](https://github.com/YZHJessica/CDVQA)|
+|2022|MM|`i-t-b`|[RSVG](https://dl.acm.org/doi/abs/10.1145/3503161.3548316)|[Project](https://sunyuxi.github.io/publication/GeoVG)|[link](https://drive.google.com/file/d/1kgnmVC6FVKdxCwaoG77sOfkaIHS_XiFt/view)|
+|2022|RS|`v-t`|[CapERA](https://www.mdpi.com/2072-4292/15/8/2139)|[Project](https://lcmou.github.io/ERA_Dataset/)|[link](https://drive.google.com/file/d/1yxXjDNAq5RAufSgSOE4QmdsNfAc4dOfM/view)|
+|2023|TGRS|`i-t-b`|[DIOR-RSVG](https://ieeexplore.ieee.org/abstract/document/10056343)|[Project](https://github.com/ZhanYang-nwpu/RSVG-pytorch)|[link](https://drive.google.com/drive/folders/1hTqtYsC6B-m4ED2ewx5oKuYZV13EoJp_)|
+|2023|arXiv|`i-t`|[RS5M](https://arxiv.org/abs/2306.11300)|[Code](https://github.com/om-ai-lab/RS5M)|[link](https://huggingface.co/datasets/Zilun/RS5M)|
+|2023|arXiv|`i-t`|[RSICap & RSIEval](https://arxiv.org/abs/2307.15266)|[Code](https://github.com/Lavender105/RSGPT)|N/A|
+|2023|arXiv|`i-t`|[LAION-EO](https://arxiv.org/abs/2309.15535)||[link](https://huggingface.co/datasets/mikonvergence/LAION-EO)|
+|2023|ICCVW||[SATIN](https://arxiv.org/abs/2304.11619)|[Project](https://satinbenchmark.github.io/)|[link](https://huggingface.co/datasets/jonathan-roberts1/SATIN)|
+|2024|AAAI|`i-t`|[SkyScript](https://arxiv.org/abs/2312.12856)|[Code](https://github.com/wangzhecheng/SkyScript)|[link](https://github.com/wangzhecheng/SkyScript#download)|
+|2024|TGRS|`i-t-m`|[RRSIS](https://ieeexplore.ieee.org/abstract/document/10458079)|[Code](https://gitlab.lrz.de/ai4eo/reasoning/rrsis)|[Link](https://huggingface.co/datasets/JessicaYuan/RefSegRS)|
+|2024|CVPR|`i-t`|[GeoChat-Instruct](https://arxiv.org/abs/2311.15826)|[Code](https://github.com/mbzuai-oryx/geochat)|[link](https://huggingface.co/datasets/MBZUAI/GeoChat_Instruct)|
+|2024|CVPR|`i-t-m`|[RRSIS-D](https://arxiv.org/abs/2312.12470)|[Code](https://github.com/Lsan2401/RMSIN)|[link](https://drive.google.com/drive/folders/1Xqi3Am2Vgm4a5tHqiV9tfaqKNovcuK3A)|
+|2024|arXiv|`i-t`|[ERA-VQA & RSPG & X-Conversa](https://arxiv.org/abs/2401.09712)|[Code](https://github.com/ZhanYang-nwpu/SkyEyeGPT)|N/A|
+|2024|arXiv|`i-t`|[MMRS-1M](https://arxiv.org/pdf/2401.16822.pdf)|[Project](https://github.com/wivizhang/EarthGPT)|N/A|
+|2024|arXiv|`i-t`|[LHRS-Align & LHRS-Instruct](https://arxiv.org/abs/2402.02544)|[Code](https://github.com/NJU-LHRS/LHRS-Bot)|
+|2024|arXiv|`i-t-m`|[ChatEarthNet](https://arxiv.org/abs/2402.11325)|N/A|N/A|
+|2024|arXiv||[VLEO-Bench](https://arxiv.org/abs/2401.17600)|[Code](https://vleo.danielz.ch/)|[link](https://huggingface.co/collections/mit-ei/vleo-benchmark-datasets-65b789b0466555489cce0d70)|
+|2024|arXiv|`i-t`|[LuoJiaHOG](https://arxiv.org/abs/2403.10887)|N/A|N/A|
 
 
-### Benchmark
-|Year|Venue|Keywords|Paper Title|Code/Project|
-|:-:|:-:|:-:|-|-|
-|2023|arXiv||[Satin: A multi-task metadataset for classifying satellite imagery using vision-language models](https://arxiv.org/abs/2304.11619)|[Project](https://satinbenchmark.github.io/)|
-|2024|arXiv||[Good at captioning, bad at counting: Benchmarking GPT-4V on Earth observation data](https://arxiv.org/abs/2401.17600)|[Code](https://vleo.danielz.ch/)|
+
+
 
 
 ### 🕹️ Application
@@ -196,8 +226,12 @@ This survey presents the first detailed survey on remote sensing vision language
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
-|2023|arXiv|`sam` `llm`|[Text2Seg: Remote Sensing Image Semantic Segmentation via Text-Guided Vision Foundation Models](https://arxiv.org/abs/2304.10597)|[Code](https://github.com/Douglas2Code/Text2Seg)|
-|2024|arXiv|`sam` `llm`|[RSAM-Seg: A SAM-based Approach with Prior Knowledge Integration for Remote Sensing Image Semantic Segmentation](https://arxiv.org/abs/2402.19004)|[Code](https://chief-byte.github.io/RSAM-Seg-Site)|
+|2023|arXiv|`sam` `clip`|[Text2Seg: Remote Sensing Image Semantic Segmentation via Text-Guided Vision Foundation Models](https://arxiv.org/abs/2304.10597)|[Code](https://github.com/Douglas2Code/Text2Seg)|
+|2024|TGRS||[RRSIS: Referring Remote Sensing Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10458079)|[Code](https://gitlab.lrz.de/ai4eo/reasoning/rrsis)|
+|2024|CVPR||[Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2312.12470)|[Code](https://github.com/Lsan2401/RMSIN)|
+|2024|WACV||[CPSeg: Finer-grained Image Semantic Segmentation via Chain-of-Thought Language Prompting](https://arxiv.org/abs/2312.12470)|N/A|
+
+
 
 
 #### Visual Question Answering
