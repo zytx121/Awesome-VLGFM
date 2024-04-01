@@ -130,6 +130,7 @@ image-caption-mask triplets
 |2024|arXiv|`llm`|[Earthgpt: A universal multi-modal large language model for multi-sensor image comprehension in remote sensing domain](https://arxiv.org/pdf/2401.16822.pdf)|N/A|
 |2024|arXiv|`llm`|[LHRS-Bot: Empowering Remote Sensing with VGI-Enhanced Large Multimodal Language Model](https://arxiv.org/abs/2402.02544)|[Code](https://github.com/NJU-LHRS/LHRS-Bot)|
 |2024|arXiv|`llm`|[Large Language Models for Captioning and Retrieving Remote Sensing Images](https://arxiv.org/pdf/2402.06475.pdf)|N/A|
+|2024|arXiv|`llm`|[H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model](https://arxiv.org/pdf/2403.20213.pdf)|N/A|
 
 
 ### Generative VLGFMs
