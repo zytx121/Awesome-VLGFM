@@ -78,7 +78,6 @@ This survey presents the first detailed survey on remote sensing vision language
   - [Generative VLGFMs](#generative-vlgfms)
   - [Agent VLGFMs](#agent-vlgfms)
   - [Datasets & Benchmarks](#datsets_&_benchmarks)
-  - [](#benchmarks)
 - [🕹️ Application](#application)
   - [Captioning](#captioning)
   - [Retrieval](#retrieval)
@@ -91,7 +90,7 @@ This survey presents the first detailed survey on remote sensing vision language
 - [📊 Exploration](#exploration)
 - [👨‍🏫 Survey](#survey)
 - [🖊️ Citation](#citation)
-- [Contact](#contact)
+- [🐲 Contact](#contact)
 
 ## 📚 Methods: A Survey
 
@@ -300,7 +299,7 @@ If you find our survey and repository useful for your research project, please c
 }
 ```
 
-## Contact
+## 🐲 Contact
 
 ```
 sjtu_zy@sjtu.edu.cn
