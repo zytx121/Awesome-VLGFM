@@ -112,7 +112,7 @@ image-caption-mask triplets
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
-|2023|arXiv|`clip`|[RemoteCLIP: A Vision Language Foundation Model for Remote Sensing](https://arxiv.org/abs/2306.11029)|[Code](https://github.com/ChenDelong1999/RemoteCLIP)|
+|2024|TGRS|`clip`|[RemoteCLIP: A Vision Language Foundation Model for Remote Sensing](https://arxiv.org/abs/2306.11029)|[Code](https://github.com/ChenDelong1999/RemoteCLIP)|
 |2023|arXiv|`clip`|[RS5M and GeoRSCLIP: A Large Scale Vision-Language Dataset and A Large Vision-Language Model for Remote Sensing](https://arxiv.org/abs/2306.11300)|[Code](https://github.com/om-ai-lab/RS5M)|
 |2024|ICLR |`clip`|[GRAFT: Remote Sensing Vision-Language Foundation Models without Annotations via Ground Remote Alignment](https://arxiv.org/abs/2312.06960)|[Project](https://graft.cs.cornell.edu)|
 |2024|AAAI|`clip`|[SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing](https://arxiv.org/abs/2312.12856)|[Code](https://github.com/wangzhecheng/SkyScript)|
@@ -152,7 +152,7 @@ image-caption-mask triplets
 |Year|Venue|Keywords|Name|Code/Project|Download|
 |:-:|:-:|:-:|-|-|-|
 |2016|CITS|`i-t`|[Sydney-Captions & UCM-Captions](https://ieeexplore.ieee.org/abstract/document/7546397)|[N/A]|[link](https://pan.baidu.com/s/1mjPToHq#list/path=%2F),[link2](https://pan.baidu.com/s/1hujEmcG#list/path=%2F)|
-|2017|TGRS|`i-t`|[RSICD](https://ieeexplore.ieee.org/document/8240966)|[Project](https://github.com/201528014227051/RSICD_optimal)|[Link](https://drive.google.com/open?id=0B1jt7lJDEXy3aE90cG9YSl9ScUk)|
+|2017|TGRS|`i-t`|[RSICD](https://ieeexplore.ieee.org/document/8240966)|[Project](https://github.com/201528014227051/RSICD_optimal)|[Link](https://pan.baidu.com/s/1bp71tE3#list/path=%2F)|
 |2020|TGRS|`i-t`|[RSVQA-LR & RSVQA-HR](https://arxiv.org/abs/2003.07333)|[Project](https://rsvqa.sylvainlobry.com)|[link1](https://zenodo.org/records/6344334),[link2](https://zenodo.org/records/6344367)|
 |2021|IGARSS|`i-t`|[RSVQAxBEN](https://rsvqa.sylvainlobry.com/IGARSS21.pdf)|[Project](https://rsvqa.sylvainlobry.com)|[link](https://zenodo.org/records/5084904)|
 |2021|Access|`i-t`|[FloodNet](https://ieeexplore.ieee.org/abstract/document/9460988)|[Project](https://github.com/BinaLab/FloodNet-Supervised_v1.0)|[link](https://drive.google.com/drive/folders/1leN9eWVQcvWDVYwNb2GCo5ML_wBEycWD)|
