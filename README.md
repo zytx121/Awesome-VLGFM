@@ -14,8 +14,6 @@
     .
     <a href="https://yangxue0827.github.io/"><strong> Xue Yang </strong></a>
     ·
-    <a href="https://scholar.google.com/citations?hl=zh-CN&user=rFv0cHYAAAAJ"><strong> Lin Chen </strong></a>
-    ·
     <a href="https://sp.sjtu.edu.cn/"><strong> Xue Jiang </strong></a>
     ·
     <a href="https://scholar.google.com/citations?hl=zh-CN&user=5GtyVooAAAAJ"><strong> Wayne Zhang </strong></a>
@@ -64,7 +62,7 @@ We will add the missing papers to this repo as soon as possible.
 
 ## 📖 Introduction
 
-This survey presents the first detailed survey on remote sensing vision language foundation models, including Contrastive VLGFMs, Conversational VLGFMs, Generative VLGFMs and Agent VLGFMs.
+This survey presents the first detailed survey on remote sensing vision language foundation models, including Contrastive/Conversational/Generative/Agent VLGFMs.
 
 ![Alt Text](figs/vlgfm.png)
 
