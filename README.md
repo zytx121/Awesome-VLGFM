@@ -52,7 +52,7 @@ We will add the missing papers to this repo as soon as possible.
 
 ### ✨ Highlight!!
 
--  The first survey for vision-language geo-foundation models, including contrastive/conversational/generative/agent geo-foundation models.
+-  The first survey for vision-language geo-foundation models, including contrastive/conversational/generative geo-foundation models.
 
 -  It also contains several related works, including exploration and application of some downstream tasks. 
 
@@ -62,7 +62,7 @@ We will add the missing papers to this repo as soon as possible.
 
 ## 📖 Introduction
 
-This survey presents the first detailed survey on remote sensing vision language foundation models, including Contrastive/Conversational/Generative/Agent VLGFMs.
+This survey presents the first detailed survey on remote sensing vision language foundation models, including Contrastive/Conversational/Generative VLGFMs.
 
 ![Alt Text](figs/vlgfm.png)
 
@@ -74,7 +74,6 @@ This survey presents the first detailed survey on remote sensing vision language
   - [Contrastive VLGFMs](#contrastive-vlgfms)
   - [Conversational VLGFMs](#conversational-vlgfms)
   - [Generative VLGFMs](#generative-vlgfms)
-  - [Agent VLGFMs](#agent-vlgfms)
   - [Datasets & Benchmarks](#datsets_&_benchmarks)
 - [🕹️ Application](#application)
   - [Captioning](#captioning)
@@ -136,12 +135,6 @@ image-caption-mask triplets
 |:-:|:-:|:-:|-|-|
 |2024|ICLR|`clip`|[DiffusionSat: A Generative Foundation Model for Satellite Imagery](https://arxiv.org/abs/2312.03606)|[Code](https://github.com/samar-khanna/DiffusionSat)|
 |2024|arXiv|`clip`|[CRS-Diff: Controllable Generative Remote Sensing Foundation Model](https://arxiv.org/abs/2403.11614)|N/A|
-
-
-### Agent VLGFMs
-|Year|Venue|Keywords|Paper Title|Code/Project|
-|:-:|:-:|:-:|-|-|
-|2024|arXiv|`llm`|[Remote Sensing ChatGPT: Solving Remote Sensing Tasks with ChatGPT and Visual Model](https://arxiv.org/abs/2401.09083)|[Code](https://github.com/HaonanGuo/Remote-Sensing-ChatGPT)|
 
 
 ### Datasets & Benchmark
