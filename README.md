@@ -14,7 +14,7 @@
     .
     <a href="https://yangxue0827.github.io/"><strong> Xue Yang </strong></a>
     ·
-    <a href="https://sp.sjtu.edu.cn/"><strong> Xue Jiang </strong></a>
+    <!-- <a href="https://sp.sjtu.edu.cn/"><strong> Xue Jiang </strong></a> -->
     ·
     <a href="https://scholar.google.com/citations?hl=zh-CN&user=5GtyVooAAAAJ"><strong> Wayne Zhang </strong></a>
     .
