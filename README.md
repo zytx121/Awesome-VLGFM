@@ -1,5 +1,5 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/zytx121/Awesome-RSFM/pulls)
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/zytx121/Awesome-VLGFM/pulls)
 <br />
 <p align="center">
   <h1 align="center">Towards Vision-Language Geo-Foundation Models: A Survey</h1>
@@ -8,15 +8,17 @@
     <br />
     <a href="https://zytx121.github.io/"><strong>Yue Zhou </strong></a>
     .
-    <a href="https://scholar.google.com/citations?hl=zh-CN&user=PnNAAasAAAAJ"><strong> Litong Feng </strong></a>
+    <a href="https://scholar.google.com/citations?user=PnNAAasAAAAJ"><strong> Litong Feng </strong></a>
     ·
     <a href="https://dr.ntu.edu.sg/cris/rp/rp00908/"><strong> Yiping Ke <sup>*</sup></strong></a>
-    .
+    ·
+    <a href="https://sp.sjtu.edu.cn/"><strong> Xue Jiang </strong></a>
+    ·
+    <a href="https://scholar.google.com/citations?user=ga230VoAAAAJ"><strong> Junchi Yan </strong></a>
+    .    
     <a href="https://yangxue0827.github.io/"><strong> Xue Yang </strong></a>
     ·
-    <!-- <a href="https://sp.sjtu.edu.cn/"><strong> Xue Jiang </strong></a> -->
-    ·
-    <a href="https://scholar.google.com/citations?hl=zh-CN&user=5GtyVooAAAAJ"><strong> Wayne Zhang </strong></a>
+    <a href="https://scholar.google.com/citations?user=5GtyVooAAAAJ"><strong> Wayne Zhang </strong></a>
     .
   </p>
 
@@ -24,7 +26,7 @@
     <a href='https://arxiv.org/abs/xxx'>
       <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
     </a>
-<!--     <a href='https://ieeexplore.ieee.org/document/10420487'>
+<!--     <a href='https://ieeexplore.ieee.org/document/'>
       <img src='https://img.shields.io/badge/TPAMI-PDF-blue?style=flat&logo=IEEE&logoColor=green' alt='TPAMI PDF'>
     </a> -->
   </p>
@@ -47,7 +49,7 @@ We will add the missing papers to this repo as soon as possible.
 
 <!-- [-] Our work is accepted by T-PAMI !!! 🔥🔥🔥 -->
 
-- We update GitHub to record the available paper by the end of **2024/4/1**.
+- We update GitHub to record the available paper by the end of **2024/6/13**.
 
 
 ### ✨ Highlight!!
@@ -128,7 +130,7 @@ image-caption-mask triplets
 |2024|arXiv|`llm`|[Large Language Models for Captioning and Retrieving Remote Sensing Images](https://arxiv.org/abs/2402.06475)|N/A|
 |2024|arXiv|`llm`|[H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model](https://arxiv.org/abs/2403.20213)|N/A|
 |2024|RS|`llm`|[RS-LLaVA: A Large Vision-Language Model for Joint Captioning and Question Answering in Remote Sensing Imagery](https://www.mdpi.com/2072-4292/16/9/1477)|[Code](https://github.com/BigData-KSU/RS-LLaVA)|
-
+|2024|arXiv|`llm`|[SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding](https://github.com/Luo-Z13/SkySenseGPT)|N/A|
 
 ### Generative VLGFMs
 
@@ -294,5 +296,5 @@ If you find our survey and repository useful for your research project, please c
 ## 🐲 Contact
 
 ```
-sjtu_zy@sjtu.edu.cn
+yue.zhou@ntu.edu.sg
 ```
