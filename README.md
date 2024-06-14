@@ -7,7 +7,7 @@
     <b> arXiv, 2024 </b>
     <br />
     <a href="https://zytx121.github.io/"><strong>Yue Zhou </strong></a>
-    .
+    ·
     <a href="https://scholar.google.com/citations?user=PnNAAasAAAAJ"><strong> Litong Feng </strong></a>
     ·
     <a href="https://dr.ntu.edu.sg/cris/rp/rp00908/"><strong> Yiping Ke </strong></a>
@@ -15,15 +15,15 @@
     <a href="https://sp.sjtu.edu.cn/"><strong> Xue Jiang </strong></a>
     ·
     <a href="https://scholar.google.com/citations?user=ga230VoAAAAJ"><strong> Junchi Yan </strong></a>
-    .    
+    ·   
     <a href="https://yangxue0827.github.io/"><strong> Xue Yang </strong></a>
     ·
     <a href="https://scholar.google.com/citations?user=5GtyVooAAAAJ"><strong> Wayne Zhang </strong></a>
-    .
+    
   </p>
 
   <p align="center">
-    <a href='https://arxiv.org/abs/xxx'>
+    <a href='https://arxiv.org/abs/2406.09385'>
       <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
     </a>
 <!--     <a href='https://ieeexplore.ieee.org/document/'>
@@ -285,11 +285,11 @@ image-caption-mask triplets
 If you find our survey and repository useful for your research project, please consider citing our paper:
 
 ```bibtex
-@article{zhou2024rsfm
-      title={Towards Vision-Language Geo-Foundation Models: A Survey}, 
-      author={Yue Zhou},
-      year={2024},
-      journal={arXiv},
+@article{zhou2024vlgfm,
+  title={Towards Vision-Language Geo-Foundation Models: A Survey},
+  author={Yue Zhou and Litong Feng and Yiping Ke and Xue Jiang and Junchi Yan and Xue Yang and Wayne Zhang},
+  journal={arXiv preprint arXiv:2406.09385},
+  year={2024}
 }
 ```
 
