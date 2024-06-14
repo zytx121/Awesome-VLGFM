@@ -32,8 +32,7 @@
   </p>
 <br />
 
-This repo is used for recording, tracking, and benchmarking several recent vision-language geo-foundation models (VLGFM) to supplement our [survey](https://arxiv.org/abs/).  
-If you find any work missing or have any suggestions (papers, implementations, and other resources), feel free to [pull requests](https://github.com/zytx121/Awesome-VLGFM/pulls).
+This repo is used for recording, tracking, and benchmarking several recent vision-language geo-foundation models (VLGFM) to supplement our [survey](https://arxiv.org/abs/). If you find any work missing or have any suggestions (papers, implementations, and other resources), feel free to [pull requests](https://github.com/zytx121/Awesome-VLGFM/pulls).
 We will add the missing papers to this repo as soon as possible.
 
 ### 🙌 Add Your Paper in our Repo and Survey!!!!!
