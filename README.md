@@ -46,9 +46,11 @@ We will add the missing papers to this repo as soon as possible.
 
 ### 🥳 New
 
-<!-- [-] Our work is accepted by T-PAMI !!! 🔥🔥🔥 -->
+🔥🔥🔥 Last Updated on 2024.06.19 🔥🔥🔥
 
-- We update GitHub to record the available paper by the end of **2024/6/13**.
+- **2024.6.19**: Update RS-GPT4V, ChatEarthNet.
+
+
 
 
 ### ✨ Highlight!!
@@ -175,6 +177,10 @@ image-caption-mask triplets
 |2024|arXiv|`i-t`|[VLEO-Bench](https://arxiv.org/abs/2401.17600)|[Code](https://vleo.danielz.ch/)|[link](https://huggingface.co/collections/mit-ei/vleo-benchmark-datasets-65b789b0466555489cce0d70)|
 |2024|arXiv|`i-t`|[LuoJiaHOG](https://arxiv.org/abs/2403.10887)|N/A|N/A|
 |2024|arXiv|`i-t-m`|[FineGrip](https://arxiv.org/abs/2404.04608)|N/A|N/A|
+|2024|arXiv|`i-t`|[ChatEarthNet](https://arxiv.org/pdf/2402.11325)|N/A|N/A|
+|2024|arXiv|`i-t`|[RS-GPT4V](https://arxiv.org/pdf/2406.12479)|N/A|N/A|
+
+
 
 
 ### 🕹️ Application
@@ -277,6 +283,7 @@ image-caption-mask triplets
 |2023|JSTARS||[Brain-Inspired Remote Sensing Foundation Models and Open Problems: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/10254282)|N/A|
 |2023|arXiv||[On the Promises and Challenges of Multimodal Foundation Models for Geographical, Environmental, Agricultural, and Urban Planning Applications](https://arxiv.org/abs/2312.17016)|N/A|
 |2024|GRSM||[Vision-Language Models in Remote Sensing: Current Progress and Future Trends](https://arxiv.org/abs/2305.05726)|N/A|
+|2024|arXiv||[On the Foundations of Earth and Climate Foundation Models](https://arxiv.org/abs/2405.04285)|N/A|
 
 
 ## 🖊️ Citation
