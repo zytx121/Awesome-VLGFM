@@ -48,7 +48,7 @@ We will add the missing papers to this repo as soon as possible.
 
 🔥🔥🔥 Last Updated on 2024.06.19 🔥🔥🔥
 
-- **2024.6.19**: Update RS-GPT4V, ChatEarthNet.
+- **2024.6.19**: Update RS-GPT4V.
 
 
 
@@ -177,7 +177,6 @@ image-caption-mask triplets
 |2024|arXiv|`i-t`|[VLEO-Bench](https://arxiv.org/abs/2401.17600)|[Code](https://vleo.danielz.ch/)|[link](https://huggingface.co/collections/mit-ei/vleo-benchmark-datasets-65b789b0466555489cce0d70)|
 |2024|arXiv|`i-t`|[LuoJiaHOG](https://arxiv.org/abs/2403.10887)|N/A|N/A|
 |2024|arXiv|`i-t-m`|[FineGrip](https://arxiv.org/abs/2404.04608)|N/A|N/A|
-|2024|arXiv|`i-t`|[ChatEarthNet](https://arxiv.org/pdf/2402.11325)|N/A|N/A|
 |2024|arXiv|`i-t`|[RS-GPT4V](https://arxiv.org/pdf/2406.12479)|N/A|N/A|
 
 
