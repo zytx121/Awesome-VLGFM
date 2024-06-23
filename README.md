@@ -46,8 +46,9 @@ We will add the missing papers to this repo as soon as possible.
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2024.06.19 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2024.06.23 🔥🔥🔥
 
+- **2024.6.23**: Update VRSBench.
 - **2024.6.19**: Update RS-GPT4V.
 
 
@@ -178,7 +179,7 @@ image-caption-mask triplets
 |2024|arXiv|`i-t`|[LuoJiaHOG](https://arxiv.org/abs/2403.10887)|N/A|N/A|
 |2024|arXiv|`i-t-m`|[FineGrip](https://arxiv.org/abs/2404.04608)|N/A|N/A|
 |2024|arXiv|`i-t`|[RS-GPT4V](https://arxiv.org/pdf/2406.12479)|N/A|N/A|
-
+|2024|arXiv|`i-t`|[VRSBench](https://arxiv.org/pdf/2406.12384)|N/A|N/A|
 
 
 
