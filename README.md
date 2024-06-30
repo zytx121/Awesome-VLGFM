@@ -9,8 +9,8 @@
     <a href="https://zytx121.github.io/"><strong>Yue Zhou </strong></a>
     ·
     <a href="https://scholar.google.com/citations?user=PnNAAasAAAAJ"><strong> Litong Feng </strong></a>
-    ·
-    <a href="https://dr.ntu.edu.sg/cris/rp/rp00908/"><strong> Yiping Ke </strong></a>
+<!--     ·
+    <a href="https://dr.ntu.edu.sg/cris/rp/rp00908/"><strong> Yiping Ke </strong></a> -->
     ·
     <a href="https://sp.sjtu.edu.cn/"><strong> Xue Jiang </strong></a>
     ·
