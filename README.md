@@ -46,8 +46,9 @@ We will add the missing papers to this repo as soon as possible.
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2024.06.23 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2024.07.19 🔥🔥🔥
 
+- **2024.7.19**: Update EarthMarker.
 - **2024.6.23**: Update VRSBench.
 - **2024.6.19**: Update RS-GPT4V.
 
@@ -132,7 +133,9 @@ image-caption-mask triplets
 |2024|arXiv|`llm`|[Large Language Models for Captioning and Retrieving Remote Sensing Images](https://arxiv.org/abs/2402.06475)|N/A|
 |2024|arXiv|`llm`|[H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model](https://arxiv.org/abs/2403.20213)|N/A|
 |2024|RS|`llm`|[RS-LLaVA: A Large Vision-Language Model for Joint Captioning and Question Answering in Remote Sensing Imagery](https://www.mdpi.com/2072-4292/16/9/1477)|[Code](https://github.com/BigData-KSU/RS-LLaVA)|
-|2024|arXiv|`llm`|[SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding](https://github.com/Luo-Z13/SkySenseGPT)|N/A|
+|2024|arXiv|`llm`|[SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding](https://arxiv.org/abs/2406.10100)|[Code](https://github.com/Luo-Z13/SkySenseGPT)|
+|2024|arXiv|`llm`|[EarthMarker: A Visual Prompt Learning Framework for Region-level and Point-level Remote Sensing Imagery Comprehension](https://github.com/wivizhang/EarthMarker)|[Code](https://github.com/wivizhang/EarthMarker)|
+
 
 ### Generative VLGFMs
 
