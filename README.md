@@ -46,8 +46,9 @@ We will add the missing papers to this repo as soon as possible.
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2024.07.19 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2024.08.28 🔥🔥🔥
 
+- **2024.8.28**: Update RSTeller.
 - **2024.7.19**: Update EarthMarker.
 - **2024.6.23**: Update VRSBench.
 - **2024.6.19**: Update RS-GPT4V.
@@ -183,7 +184,7 @@ image-caption-mask triplets
 |2024|arXiv|`i-t-m`|[FineGrip](https://arxiv.org/abs/2404.04608)|N/A|N/A|
 |2024|arXiv|`i-t`|[RS-GPT4V](https://arxiv.org/pdf/2406.12479)|N/A|N/A|
 |2024|arXiv|`i-t`|[VRSBench](https://arxiv.org/pdf/2406.12384)|N/A|N/A|
-
+|2024|arXiv|`i-t`|[RSTeller](https://arxiv.org/abs/2408.14744)|[Project](https://github.com/SlytherinGe/RSTeller/)|[link](https://huggingface.co/datasets/SlytherinGe/RSTeller)|
 
 
 ### 🕹️ Application
