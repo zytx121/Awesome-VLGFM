@@ -49,6 +49,7 @@ We will add the missing papers to this repo as soon as possible.
 🔥🔥🔥 Last Updated on 2024.08.28 🔥🔥🔥
 
 - **2024.8.28**: Update RSTeller.
+- **2024.7.24**: RS5M accepted by TGRS 2024.
 - **2024.7.19**: Update EarthMarker.
 - **2024.6.23**: Update VRSBench.
 - **2024.6.19**: Update RS-GPT4V.
@@ -115,7 +116,7 @@ image-caption-mask triplets
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
-|2023|arXiv|`clip`|[RS5M and GeoRSCLIP: A Large Scale Vision-Language Dataset and A Large Vision-Language Model for Remote Sensing](https://arxiv.org/abs/2306.11300)|[Code](https://github.com/om-ai-lab/RS5M)|
+|2024|TGRS|`clip`|[RS5M and GeoRSCLIP: A Large Scale Vision-Language Dataset and A Vision-Language Foundation Model for Remote Sensing](https://arxiv.org/abs/2306.11300)|[Code](https://github.com/om-ai-lab/RS5M)|
 |2024|ICLR |`clip`|[GRAFT: Remote Sensing Vision-Language Foundation Models without Annotations via Ground Remote Alignment](https://arxiv.org/abs/2312.06960)|[Project](https://graft.cs.cornell.edu)|
 |2024|AAAI|`clip`|[SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing](https://arxiv.org/abs/2312.12856)|[Code](https://github.com/wangzhecheng/SkyScript)|
 |2024|arXiv|`clip`|[Mind the Modality Gap: Towards a Remote Sensing Vision-Language Model via Cross-modal Alignment](https://arxiv.org/abs/2402.09816)|N/A|
