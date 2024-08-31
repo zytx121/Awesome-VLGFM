@@ -46,8 +46,9 @@ We will add the missing papers to this repo as soon as possible.
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2024.08.28 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2024.08.31 🔥🔥🔥
 
+- **2024.8.31**: Update MME-RealWorld, which has 3738 High-Resolution Remote Sensing VQA samples.
 - **2024.8.28**: Update RSTeller.
 - **2024.7.24**: RS5M accepted by TGRS 2024.
 - **2024.7.19**: Update EarthMarker.
@@ -186,6 +187,7 @@ image-caption-mask triplets
 |2024|arXiv|`i-t`|[RS-GPT4V](https://arxiv.org/pdf/2406.12479)|N/A|N/A|
 |2024|arXiv|`i-t`|[VRSBench](https://arxiv.org/pdf/2406.12384)|N/A|N/A|
 |2024|arXiv|`i-t`|[RSTeller](https://arxiv.org/abs/2408.14744)|[Project](https://github.com/SlytherinGe/RSTeller/)|[link](https://huggingface.co/datasets/SlytherinGe/RSTeller)|
+|2024|arXiv|`i-t`|[MME-RealWorld](https://arxiv.org/abs/2408.13257)|[Project](https://mme-realworld.github.io/home_page.html)|[link](https://huggingface.co/datasets/yifanzhang114/MME-RealWorld)|
 
 
 ### 🕹️ Application
