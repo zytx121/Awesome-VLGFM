@@ -46,14 +46,14 @@ We will add the missing papers to this repo as soon as possible.
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2024.08.31 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2024.10.11 🔥🔥🔥
 
+- **2024.10.11**: Update TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data.
 - **2024.8.31**: Update MME-RealWorld, which has 3738 High-Resolution Remote Sensing VQA samples.
 - **2024.8.28**: Update RSTeller.
 - **2024.7.24**: RS5M accepted by TGRS 2024.
 - **2024.7.19**: Update EarthMarker.
-- **2024.6.23**: Update VRSBench.
-- **2024.6.19**: Update RS-GPT4V.
+
 
 
 
@@ -138,6 +138,7 @@ image-caption-mask triplets
 |2024|RS|`llm`|[RS-LLaVA: A Large Vision-Language Model for Joint Captioning and Question Answering in Remote Sensing Imagery](https://www.mdpi.com/2072-4292/16/9/1477)|[Code](https://github.com/BigData-KSU/RS-LLaVA)|
 |2024|arXiv|`llm`|[SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding](https://arxiv.org/abs/2406.10100)|[Code](https://github.com/Luo-Z13/SkySenseGPT)|
 |2024|arXiv|`llm`|[EarthMarker: A Visual Prompt Learning Framework for Region-level and Point-level Remote Sensing Imagery Comprehension](https://github.com/wivizhang/EarthMarker)|[Code](https://github.com/wivizhang/EarthMarker)|
+|2024|arXiv|`llm`|[TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data](https://arxiv.org/abs/2410.06234)|[Code](https://github.com/ermongroup/TEOChat)|
 
 
 ### Generative VLGFMs
