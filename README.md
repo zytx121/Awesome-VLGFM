@@ -46,13 +46,13 @@ We will add the missing papers to this repo as soon as possible.
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2024.10.11 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2024.11.29 🔥🔥🔥
 
-- **2024.10.11**: Update TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data.
-- **2024.8.31**: Update MME-RealWorld, which has 3738 High-Resolution Remote Sensing VQA samples.
+- **2024.11.29**: Update Popeye, GeoText, MetaEarth, HSIGene, Change-Agent, Aquila, GeoGround, LHRS-Bot-Nova, UrBench, DDFAV, RS-MoE, GeoLLaVA.
+- **2024.10.11**: Update TEOChat.
+- **2024.8.31**: Update MME-RealWorld.
 - **2024.8.28**: Update RSTeller.
 - **2024.7.24**: RS5M accepted by TGRS 2024.
-- **2024.7.19**: Update EarthMarker.
 
 
 
@@ -133,20 +133,28 @@ image-caption-mask triplets
 |2024|arXiv|`llm`|[SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model](https://arxiv.org/abs/2401.09712)|[Code](https://github.com/ZhanYang-nwpu/SkyEyeGPT)|
 |2024|TGRS|`llm`|[Earthgpt: A universal multi-modal large language model for multi-sensor image comprehension in remote sensing domain](https://arxiv.org/abs/2401.16822)|N/A|
 |2024|ECCV|`llm`|[LHRS-Bot: Empowering Remote Sensing with VGI-Enhanced Large Multimodal Language Model](https://arxiv.org/abs/2402.02544)|[Code](https://github.com/NJU-LHRS/LHRS-Bot)|
+|2024|arXiv|`llm`|[Popeye: A Unified Visual-Language Model for Multi-Source Ship Detection from Remote Sensing Imagery](https://arxiv.org/abs/2403.03790)|N/A|
 |2024|arXiv|`llm`|[Large Language Models for Captioning and Retrieving Remote Sensing Images](https://arxiv.org/abs/2402.06475)|N/A|
 |2024|arXiv|`llm`|[H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model](https://arxiv.org/abs/2403.20213)|N/A|
 |2024|RS|`llm`|[RS-LLaVA: A Large Vision-Language Model for Joint Captioning and Question Answering in Remote Sensing Imagery](https://www.mdpi.com/2072-4292/16/9/1477)|[Code](https://github.com/BigData-KSU/RS-LLaVA)|
 |2024|arXiv|`llm`|[SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding](https://arxiv.org/abs/2406.10100)|[Code](https://github.com/Luo-Z13/SkySenseGPT)|
 |2024|arXiv|`llm`|[EarthMarker: A Visual Prompt Learning Framework for Region-level and Point-level Remote Sensing Imagery Comprehension](https://github.com/wivizhang/EarthMarker)|[Code](https://github.com/wivizhang/EarthMarker)|
 |2024|arXiv|`llm`|[TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data](https://arxiv.org/abs/2410.06234)|[Code](https://github.com/ermongroup/TEOChat)|
+|2024|arXiv|`llm`|[Aquila: A Hierarchically Aligned Visual-Language Model for Enhanced Remote Sensing Image Comprehension](https://arxiv.org/abs/2411.06074)|N/A|
+|2024|arXiv|`llm`|[GeoGround: A Unified Large Vision-Language Model for Remote Sensing Visual Grounding](https://arxiv.org/abs/2411.11904)|[Code](https://github.com/zytx121/GeoGround)|
+|2024|arXiv|`llm`|[LHRS-Bot-Nova: Improved Multimodal Large Language Model for Remote Sensing Vision-Language Interpretation](https://arxiv.org/abs/2411.09301)|[Code](https://github.com/NJU-LHRS/LHRS-Bot)|
+|2024|arXiv|`llm`|[GeoLLaVA: Efficient Fine-Tuned Vision-Language Models for Temporal Change Detection in Remote Sensing](https://arxiv.org/abs/2410.19552)|N/A|
+|2024|arXiv|`llm`|[RS-MoE: Mixture of Experts for Remote Sensing Image Captioning and Visual Question Answering](https://arxiv.org/abs/2411.01595)|N/A|
 
 
 ### Generative VLGFMs
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
-|2024|ICLR|`clip`|[DiffusionSat: A Generative Foundation Model for Satellite Imagery](https://arxiv.org/abs/2312.03606)|[Code](https://github.com/samar-khanna/DiffusionSat)|
-|2024|arXiv|`clip`|[CRS-Diff: Controllable Generative Remote Sensing Foundation Model](https://arxiv.org/abs/2403.11614)|N/A|
+|2024|ICLR||[DiffusionSat: A Generative Foundation Model for Satellite Imagery](https://arxiv.org/abs/2312.03606)|[Code](https://github.com/samar-khanna/DiffusionSat)|
+|2024|arXiv||[CRS-Diff: Controllable Generative Remote Sensing Foundation Model](https://arxiv.org/abs/2403.11614)|N/A|
+|2024|arXiv||[MetaEarth: A Generative Foundation Model for Global-Scale Remote Sensing Image Generation](https://arxiv.org/abs/2405.13570)|[Code](https://jiupinjia.github.io/metaearth/)|
+|2024|arXiv||[HSIGene: A Foundation Model For Hyperspectral Image Generation](https://arxiv.org/abs/2409.12470)|[Code](https://github.com/LiPang/HSIGene)|
 
 
 ### Datasets & Benchmark
@@ -178,6 +186,7 @@ image-caption-mask triplets
 |2024|TGRS|`i-t-m`|[RRSIS](https://ieeexplore.ieee.org/abstract/document/10458079)|[Code](https://gitlab.lrz.de/ai4eo/reasoning/rrsis)|[link](https://huggingface.co/datasets/JessicaYuan/RefSegRS)|
 |2024|CVPR|`i-t`|[GeoChat-Instruct & GeoChat-Bench](https://arxiv.org/abs/2311.15826)|[Code](https://github.com/mbzuai-oryx/geochat)|[link](https://huggingface.co/datasets/MBZUAI/GeoChat_Instruct)|
 |2024|CVPR|`i-t-m`|[RRSIS-D](https://arxiv.org/abs/2312.12470)|[Code](https://github.com/Lsan2401/RMSIN)|[link](https://drive.google.com/drive/folders/1Xqi3Am2Vgm4a5tHqiV9tfaqKNovcuK3A)|
+|2024|ECCV|`i-t`|[GeoText](https://arxiv.org/abs/2311.12751)|[Project](https://multimodalgeo.github.io/GeoText/)|[link](https://huggingface.co/datasets/truemanv5666/GeoText1652_Dataset)|
 |2024|arXiv|`i-t`|[SkyEye-968k](https://arxiv.org/abs/2401.09712)|[Code](https://github.com/ZhanYang-nwpu/SkyEyeGPT)|N/A|
 |2024|arXiv|`i-t`|[MMRS-1M](https://arxiv.org/abs/2401.16822)|[Project](https://github.com/wivizhang/EarthGPT)|N/A|
 |2024|arXiv|`i-t`|[LHRS-Align & LHRS-Instruct](https://arxiv.org/abs/2402.02544)|[Code](https://github.com/NJU-LHRS/LHRS-Bot)|N/A|
@@ -189,6 +198,9 @@ image-caption-mask triplets
 |2024|arXiv|`i-t`|[VRSBench](https://arxiv.org/pdf/2406.12384)|N/A|N/A|
 |2024|arXiv|`i-t`|[RSTeller](https://arxiv.org/abs/2408.14744)|[Project](https://github.com/SlytherinGe/RSTeller/)|[link](https://huggingface.co/datasets/SlytherinGe/RSTeller)|
 |2024|arXiv|`i-t`|[MME-RealWorld](https://arxiv.org/abs/2408.13257)|[Project](https://mme-realworld.github.io/home_page.html)|[link](https://huggingface.co/datasets/yifanzhang114/MME-RealWorld)|
+|2024|arXiv|`i-t`|[UrBench](https://arxiv.org/abs/2408.17267)|[Project](https://opendatalab.github.io/UrBench/)|N/A|
+|2024|arXiv|`i-t`|[MMM-RS](https://arxiv.org/abs/2410.22362)|[Project](https://github.com/ljl5261/MMM-RS)|N/A|
+|2024|arXiv|`i-t`|[DDFAV](https://arxiv.org/abs/2411.02733)|[Project](https://github.com/HaodongLi2024/rspope/)|N/A|
 
 
 ### 🕹️ Application
@@ -201,12 +213,12 @@ image-caption-mask triplets
 |2023|JSEE|`llm`|[VLCA: vision-language aligning model with cross-modal attention for bilingual remote sensing image captioning](https://ieeexplore.ieee.org/abstract/document/10066217)|N/A|
 
 
-#### Retrieval
+#### Visual Question Answering
 
 |Year|Venue|Keywords|Paper Title|Code/Project|
 |:-:|:-:|:-:|-|-|
-|2022|VT|`llm`|[CLIP-RS: A Cross-modal Remote Sensing Image Retrieval Based on CLIP, a Northern Virginia Case Study](https://vtechworks.lib.vt.edu/items/beb6f813-0cc6-4594-a4ef-0068cc16b0bd)|N/A|
-|2024|arXiv|`llm`|[Multi-Spectral Remote Sensing Image Retrieval Using Geospatial Foundation Models](https://arxiv.org/abs/2403.02059)|[Code](https://github.com/IBM/remote-sensing-image-retrieval)|
+|2022|CVPRW||[Prompt-RSVQA: Prompting visual context to a language model for remote sensing visual question answering](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/html/Chappuis_Prompt-RSVQA_Prompting_Visual_Context_to_a_Language_Model_for_Remote_CVPRW_2022_paper.html)|N/A|
+|2024|AAAI||[EarthVQA: Towards Queryable Earth via Relational Reasoning-Based Remote Sensing Visual Question Answering](https://arxiv.org/abs/2312.12222)|[Project](https://junjuewang.top/EarthVQA)|
 
 
 #### Change Detection
@@ -218,6 +230,8 @@ image-caption-mask triplets
 |2024|TGRS|`llm`|[A New Learning Paradigm for Foundation Model-Based Remote-Sensing Change Detection](https://ieeexplore.ieee.org/abstract/document/10438490)|[Code](https://github.com/likyoo/BAN)|
 |2024|arXiv|`sam`|[Change Detection Between Optical Remote Sensing Imagery and Map Data via Segment Anything Model (SAM)](https://arxiv.org/abs/2401.09019)|N/A|
 |2024|arXiv|`sam`|[Segment Any Change](https://arxiv.org/abs/2402.01188)|N/A|
+|2024|TGRS|`llm`|[Change-Agent: Toward Interactive Comprehensive Remote Sensing Change Interpretation and Analysis](https://ieeexplore.ieee.org/abstract/document/10591792)|[Code](https://github.com/Chen-Yang-Liu/Change-Agent)|
+
 
 
 #### Scene Classification
@@ -227,22 +241,10 @@ image-caption-mask triplets
 |2023|IJAEOG|`clip`|[RS-CLIP: Zero shot remote sensing scene classification via contrastive vision-language supervision](https://www.sciencedirect.com/science/article/pii/S1569843223003217)|[Code](https://github.com/lx709/RS-CLIP)|
 
 
-#### Segmentation
+#### Referring Expression Segmentation (RES)
 
-|Year|Venue|Keywords|Paper Title|Code/Project|
-|:-:|:-:|:-:|-|-|
-|2023|arXiv|`sam` `clip`|[Text2Seg: Remote Sensing Image Semantic Segmentation via Text-Guided Vision Foundation Models](https://arxiv.org/abs/2304.10597)|[Code](https://github.com/Douglas2Code/Text2Seg)|
 |2024|TGRS||[RRSIS: Referring Remote Sensing Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10458079)|[Code](https://gitlab.lrz.de/ai4eo/reasoning/rrsis)|
 |2024|CVPR||[Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2312.12470)|[Code](https://github.com/Lsan2401/RMSIN)|
-|2024|WACV||[CPSeg: Finer-grained Image Semantic Segmentation via Chain-of-Thought Language Prompting](https://arxiv.org/abs/2310.16069)|N/A|
-
-
-#### Visual Question Answering
-
-|Year|Venue|Keywords|Paper Title|Code/Project|
-|:-:|:-:|:-:|-|-|
-|2022|CVPRW||[Prompt-RSVQA: Prompting visual context to a language model for remote sensing visual question answering](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/html/Chappuis_Prompt-RSVQA_Prompting_Visual_Context_to_a_Language_Model_for_Remote_CVPRW_2022_paper.html)|N/A|
-|2024|AAAI||[EarthVQA: Towards Queryable Earth via Relational Reasoning-Based Remote Sensing Visual Question Answering](https://arxiv.org/abs/2312.12222)|[Project](https://junjuewang.top/EarthVQA)|
 
 
 #### Geospatial Localization
@@ -253,6 +255,22 @@ image-caption-mask triplets
 |2023|ICML|`clip`|[CSP: Self-Supervised Contrastive Spatial Pre-Training for Geospatial-Visual Representations](https://arxiv.org/abs/2305.01118)|[Code](https://gengchenmai.github.io/csp-website/)|
 |2023|NeurIPS|`clip`|[GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization](https://arxiv.org/abs/2309.16020)|[Code](https://github.com/VicenteVivan/geo-clip)|
 |2023|arXiv|`clip`|[SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery](https://arxiv.org/abs/2311.17179)|[Code](https://github.com/microsoft/satclip)|
+
+
+#### Retrieval
+
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+|2022|VT|`llm`|[CLIP-RS: A Cross-modal Remote Sensing Image Retrieval Based on CLIP, a Northern Virginia Case Study](https://vtechworks.lib.vt.edu/items/beb6f813-0cc6-4594-a4ef-0068cc16b0bd)|N/A|
+|2024|arXiv|`llm`|[Multi-Spectral Remote Sensing Image Retrieval Using Geospatial Foundation Models](https://arxiv.org/abs/2403.02059)|[Code](https://github.com/IBM/remote-sensing-image-retrieval)|
+
+
+#### Segmentation
+
+|Year|Venue|Keywords|Paper Title|Code/Project|
+|:-:|:-:|:-:|-|-|
+|2023|arXiv|`sam` `clip`|[Text2Seg: Remote Sensing Image Semantic Segmentation via Text-Guided Vision Foundation Models](https://arxiv.org/abs/2304.10597)|[Code](https://github.com/Douglas2Code/Text2Seg)|
+|2024|WACV||[CPSeg: Finer-grained Image Semantic Segmentation via Chain-of-Thought Language Prompting](https://arxiv.org/abs/2310.16069)|N/A|
 
 
 #### Object Detection
