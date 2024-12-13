@@ -46,14 +46,12 @@ We will add the missing papers to this repo as soon as possible.
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2024.12.9 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2024.12.13 🔥🔥🔥
 
+- **2024.12.13**: Update RSUniVLM.
 - **2024.12.9**: Update GEOBench-VLM, COREval, RingMoGPT.
 - **2024.11.29**: Update Popeye, GeoText, MetaEarth, HSIGene, Change-Agent, Aquila, GeoGround, LHRS-Bot-Nova, UrBench, DDFAV, RS-MoE, GeoLLaVA.
 - **2024.10.11**: Update TEOChat.
-- **2024.8.31**: Update MME-RealWorld.
-- **2024.8.28**: Update RSTeller.
-- **2024.7.24**: RS5M accepted by TGRS 2024.
 
 
 
@@ -147,6 +145,8 @@ image-caption-mask triplets
 |2024|arXiv|`llm`|[GeoLLaVA: Efficient Fine-Tuned Vision-Language Models for Temporal Change Detection in Remote Sensing](https://arxiv.org/abs/2410.19552)|N/A|
 |2024|arXiv|`llm`|[RS-MoE: Mixture of Experts for Remote Sensing Image Captioning and Visual Question Answering](https://arxiv.org/abs/2411.01595)|N/A|
 |2024|TGRS|`llm`|[RingMoGPT: A Unified Remote Sensing Foundation Model for Vision, Language, and grounded tasks](https://ieeexplore.ieee.org/document/10777289)|N/A|
+|2024|arXiv|`llm`|[RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts](https://arxiv.org/abs/2412.05679)|[Code](https://github.com/xuliu-cyber/RSUniVLM)|
+
 
 
 ### Generative VLGFMs
