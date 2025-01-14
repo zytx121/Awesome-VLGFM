@@ -46,12 +46,13 @@ We will add the missing papers to this repo as soon as possible.
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2024.12.25 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2025.01.14 🔥🔥🔥
 
+
+- **2025.01.14**: Update GeoPix.
 - **2024.12.25**: Update VHM (accepted by AAAI'2025), which is a new version of H2RSVLM.
 - **2024.12.21**: Update EarthDial.
 - **2024.12.13**: Update RSUniVLM.
-- **2024.12.9**: Update GEOBench-VLM, COREval, RingMoGPT.
 
 
 
@@ -149,6 +150,9 @@ image-caption-mask triplets
 |2024|arXiv|`llm`|[RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts](https://arxiv.org/abs/2412.05679)|[Code](https://github.com/xuliu-cyber/RSUniVLM)|
 |2024|arXiv|`llm`|[EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues](https://arxiv.org/abs/2412.15190)|N/A|
 |2025|AAAI|`llm`|[VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis](https://arxiv.org/pdf/2403.20213v4)|[Code](https://github.com/opendatalab/VHM)|
+|2025|arXiv|`llm`|[GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing](https://arxiv.org/pdf/2501.06828)|N/A|
+
+
 
 
 ### Generative VLGFMs
