@@ -46,7 +46,7 @@ We will add the missing papers to this repo as soon as possible.
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2025.01.14 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2025.02.16 🔥🔥🔥
 
 - **2025.02.16**: Update UniRS, REO-VLM, GeoPixel. 
 - **2025.01.14**: Update GeoPix.
