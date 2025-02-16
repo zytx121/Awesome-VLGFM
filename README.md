@@ -48,13 +48,10 @@ We will add the missing papers to this repo as soon as possible.
 
 🔥🔥🔥 Last Updated on 2025.01.14 🔥🔥🔥
 
-
+- **2025.02.16**: Update UniRS, REO-VLM, GeoPixel. 
 - **2025.01.14**: Update GeoPix.
 - **2024.12.25**: Update VHM (accepted by AAAI'2025), which is a new version of H2RSVLM.
 - **2024.12.21**: Update EarthDial.
-- **2024.12.13**: Update RSUniVLM.
-
-
 
 
 
@@ -149,9 +146,11 @@ image-caption-mask triplets
 |2024|TGRS|`llm`|[RingMoGPT: A Unified Remote Sensing Foundation Model for Vision, Language, and grounded tasks](https://ieeexplore.ieee.org/document/10777289)|N/A|
 |2024|arXiv|`llm`|[RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts](https://arxiv.org/abs/2412.05679)|[Code](https://github.com/xuliu-cyber/RSUniVLM)|
 |2024|arXiv|`llm`|[EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues](https://arxiv.org/abs/2412.15190)|N/A|
-|2025|AAAI|`llm`|[VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis](https://arxiv.org/pdf/2403.20213v4)|[Code](https://github.com/opendatalab/VHM)|
-|2025|arXiv|`llm`|[GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing](https://arxiv.org/pdf/2501.06828)|N/A|
-
+|2024|arXiv|`llm`|[UniRS: Unifying Multi-temporal Remote Sensing Tasks through Vision Language Models](https://arxiv.org/abs/2412.20742v1)|N/A|
+|2024|arXiv|`llm`|[REO-VLM: Transforming VLM to Meet Regression Challenges in Earth Observation](https://arxiv.org/abs/2412.16583)|N/A|
+|2025|AAAI|`llm`|[VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis](https://arxiv.org/abs/2403.20213v4)|[Code](https://github.com/opendatalab/VHM)|
+|2025|arXiv|`llm`|[GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing](https://arxiv.org/abs/2501.06828)|N/A|
+|2025|arXiv|`llm`|[GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing](https://arxiv.org/abs/2501.13925)|[Code](https://github.com/mbzuai-oryx/GeoPixel)]|
 
 
 
@@ -202,8 +201,8 @@ image-caption-mask triplets
 |2024|arXiv|`i-t`|[VLEO-Bench](https://arxiv.org/abs/2401.17600)|[Code](https://vleo.danielz.ch/)|[link](https://huggingface.co/collections/mit-ei/vleo-benchmark-datasets-65b789b0466555489cce0d70)|
 |2024|arXiv|`i-t`|[LuoJiaHOG](https://arxiv.org/abs/2403.10887)|N/A|N/A|
 |2024|arXiv|`i-t-m`|[FineGrip](https://arxiv.org/abs/2404.04608)|N/A|N/A|
-|2024|arXiv|`i-t`|[RS-GPT4V](https://arxiv.org/pdf/2406.12479)|N/A|N/A|
-|2024|arXiv|`i-t`|[VRSBench](https://arxiv.org/pdf/2406.12384)|N/A|N/A|
+|2024|arXiv|`i-t`|[RS-GPT4V](https://arxiv.org/abs/2406.12479)|N/A|N/A|
+|2024|arXiv|`i-t`|[VRSBench](https://arxiv.org/abs/2406.12384)|N/A|N/A|
 |2024|arXiv|`i-t`|[RSTeller](https://arxiv.org/abs/2408.14744)|[Project](https://github.com/SlytherinGe/RSTeller/)|[link](https://huggingface.co/datasets/SlytherinGe/RSTeller)|
 |2024|arXiv|`i-t`|[MME-RealWorld](https://arxiv.org/abs/2408.13257)|[Project](https://mme-realworld.github.io/home_page.html)|[link](https://huggingface.co/datasets/yifanzhang114/MME-RealWorld)|
 |2024|arXiv|`i-t`|[UrBench](https://arxiv.org/abs/2408.17267)|[Project](https://opendatalab.github.io/UrBench/)|N/A|
