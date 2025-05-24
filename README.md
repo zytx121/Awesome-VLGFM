@@ -46,8 +46,9 @@ We will add the missing papers to this repo as soon as possible.
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2025.02.16 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2025.05.24 🔥🔥🔥
 
+- **2025.05.24**: Update ImageRAG.
 - **2025.02.16**: Update UniRS, REO-VLM, GeoPixel. 
 - **2025.01.14**: Update GeoPix.
 - **2024.12.25**: Update VHM (accepted by AAAI'2025), which is a new version of H2RSVLM.
@@ -151,6 +152,7 @@ image-caption-mask triplets
 |2025|AAAI|`llm`|[VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis](https://arxiv.org/abs/2403.20213v4)|[Code](https://github.com/opendatalab/VHM)|
 |2025|arXiv|`llm`|[GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing](https://arxiv.org/abs/2501.06828)|N/A|
 |2025|arXiv|`llm`|[GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing](https://arxiv.org/abs/2501.13925)|[Code](https://github.com/mbzuai-oryx/GeoPixel)]|
+|2025|GRSM|`llm`|[ImageRAG: Enhancing Ultra High Resolution Remote Sensing Imagery Analysis with ImageRAG](https://arxiv.org/abs/2411.07688)|[Code](https://github.com/om-ai-lab/ImageRAG)]|
 
 
 
