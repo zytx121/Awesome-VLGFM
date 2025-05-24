@@ -151,8 +151,8 @@ image-caption-mask triplets
 |2024|arXiv|`llm`|[REO-VLM: Transforming VLM to Meet Regression Challenges in Earth Observation](https://arxiv.org/abs/2412.16583)|N/A|
 |2025|AAAI|`llm`|[VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis](https://arxiv.org/abs/2403.20213v4)|[Code](https://github.com/opendatalab/VHM)|
 |2025|arXiv|`llm`|[GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing](https://arxiv.org/abs/2501.06828)|N/A|
-|2025|arXiv|`llm`|[GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing](https://arxiv.org/abs/2501.13925)|[Code](https://github.com/mbzuai-oryx/GeoPixel)]|
-|2025|GRSM|`llm`|[ImageRAG: Enhancing Ultra High Resolution Remote Sensing Imagery Analysis with ImageRAG](https://arxiv.org/abs/2411.07688)|[Code](https://github.com/om-ai-lab/ImageRAG)]|
+|2025|arXiv|`llm`|[GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing](https://arxiv.org/abs/2501.13925)|[Code](https://github.com/mbzuai-oryx/GeoPixel)|
+|2025|GRSM|`llm`|[ImageRAG: Enhancing Ultra High Resolution Remote Sensing Imagery Analysis with ImageRAG](https://arxiv.org/abs/2411.07688)|[Code](https://github.com/om-ai-lab/ImageRAG)|
 
 
 
